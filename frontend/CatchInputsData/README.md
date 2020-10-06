@@ -4,6 +4,7 @@
 <p>Is very simple, before all you must do a preventDefault in your form Event, after this create a const and assign it with the function passing the form Event</p>
 
 <h1>Exemple</h1>
+
 ```javascript
 function login(e) {
     e.preventDefault()
